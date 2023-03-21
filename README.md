@@ -2,7 +2,7 @@
 ---
 ## **About Me** :nerd_face:	
 
-My name is Sam, and I'm currently a Junior Java SDET with Sparta Global.
+
 <!--
 **samuellsrobertson/samuellsrobertson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
